@@ -39,3 +39,9 @@ chattr +i /www/server/panel/data/plugin.json
 ```
 sed -i "s|if (bind_user == 'REMOVED') {|if (bind_user == 'True') {|g" /www/server/panel/BTPanel/static/js/index.js
 ```
+
+
+特别鸣谢 8838 大佬
+```
+![https://github.com/8838](https://github.com/8838)
+```
