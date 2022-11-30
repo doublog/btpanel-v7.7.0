@@ -42,6 +42,6 @@ sed -i "s|if (bind_user == 'REMOVED') {|if (bind_user == 'True') {|g" /www/serve
 
 
 特别鸣谢 8838 大佬
-```
-![https://github.com/8838](https://github.com/8838)
-```
+-
+[https://github.com/8838](https://github.com/8838)
+
