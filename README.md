@@ -57,6 +57,12 @@ UnicodeEncodeError: 'latin-1' codec can't encode characters in position 15-21: o
 export PYTHONIOENCODING=utf-8
 ```
 
+或者重新执行
+```
+bash install_panel.sh
+```
+再安装一遍即可。
+
 
 特别鸣谢 8838 大佬
 -
